@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeuralNetwork", "NeuralNetwork\NeuralNetwork.csproj", "{C16BCFDE-8B05-4BA0-80D0-4A7E14297EFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicTacToe", "TicTacToe\TicTacToe.csproj", "{A5CAF2A2-B574-4F03-B7B7-E6BEC8CEFCDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C16BCFDE-8B05-4BA0-80D0-4A7E14297EFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C16BCFDE-8B05-4BA0-80D0-4A7E14297EFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C16BCFDE-8B05-4BA0-80D0-4A7E14297EFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C16BCFDE-8B05-4BA0-80D0-4A7E14297EFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5CAF2A2-B574-4F03-B7B7-E6BEC8CEFCDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5CAF2A2-B574-4F03-B7B7-E6BEC8CEFCDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5CAF2A2-B574-4F03-B7B7-E6BEC8CEFCDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5CAF2A2-B574-4F03-B7B7-E6BEC8CEFCDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
